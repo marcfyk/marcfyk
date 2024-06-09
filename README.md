@@ -1,8 +1,8 @@
 ### Hello there, I am Marc 👋
 
-![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcfyk&show_icons=true&theme=transparent)
+![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcfyk&show_icons=true&theme=rose_pine&hide_rank=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcfyk&layout=compact&langs_count=8&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcfyk&layout=compact&langs_count=8&theme=rose_pine)
 
 <!--
 **marcfyk/marcfyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
